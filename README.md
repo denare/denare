@@ -1,17 +1,17 @@
 # 👋 Hi, I’m Denis D
 
-I'm a **Computer Science student** at UDOM, Tanzania, passionate about **Front-End Web Development** and **C++ programming**.  
-
-- 🌱 Currently learning **Database Applications** and **Mobile Development**  
-- 💞️ Looking to collaborate on **front-end projects**  
-- ⚡ Motto: *#think_then_code*  
-- 📫 Reach me: +255678049280 | [Email Me](mailto:enersondenare01@gmail.com)  
+- I'm a 2nd year student majoring **Computer Science** at University of Dodoma, Tanzania.  
+- Passionate in web development and AI integration.
+- Curently working as a Front-End Web Developer
+- Focused on building clean, modern, and user-centered web applications
+- Open for collaboration, learning and building cool stuff 🚀
+- Contacts : +255678049280 | [Email Me](mailto:denismfalla9@gmail.com)  
 
 ---
 
-## 🌐 Connect with Me
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/denisd_tz)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enersondenare01@gmail.com)
+## 💫 About Me
+I'm a developer who cares about how things work under the hood, not just making them work.
+I enjoy breaking down complex systems into simple, understandable pieces and then rebuilding them into something functional, beautiful, and scalable.
 
 ---
 
@@ -24,19 +24,26 @@ I'm a **Computer Science student** at UDOM, Tanzania, passionate about **Front-E
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=denare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=denare&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=denare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=denare&theme=dark&show_icons=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=denare&theme=dark)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=denare&theme=dark&layout=compact)
+## 🧠 How I Think
 
----
+> “If you can’t explain it simply, you don’t understand it well enough.”
 
-✨ **Fun Fact:** I love turning ideas into reality!
+* I learn by **breaking things -> rebuilding them better**
+* I focus on **why**, not just **how**
+* I prefer **clean, maintainable systems** over quick hacks
+
+✨ **More about me :** I love turning ideas into reality!
