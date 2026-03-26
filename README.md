@@ -10,9 +10,11 @@
 ---
 
 ## 💫 About Me
+
 I'm a developer who cares about how things work under the hood, not just making them work.
 I enjoy breaking down complex systems into simple, understandable pieces and then rebuilding them into something functional, beautiful,clean and scalable.
 I’m driven by curiosity, clarity, and building things that actually make sense.
+
 ---
 
 ## 💻 Tech Stack
