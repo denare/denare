@@ -35,11 +35,6 @@ I’m driven by curiosity, clarity, and building things that actually make sense
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=denare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=denare&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=denare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🧠 How I Think
 
 > “If you can’t explain it simply, you don’t understand it well enough.”
