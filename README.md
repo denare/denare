@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Denis D
 
-- I'm a 2nd year student majoring **Computer Science** at University of Dodoma, Tanzania.  
+- I'm a Senior student (3rd year) majoring **Computer Science** at University of Dodoma, Tanzania.  
 - Passionate in web development and AI integration.
 - Curently working as a Front-End Web Developer
 - Focused on building clean, modern, and user-centered web applications
